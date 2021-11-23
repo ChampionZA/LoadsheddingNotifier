@@ -1,0 +1,18 @@
+
+                            <div class="dayMonth">
+                                Thu, 18 Nov
+
+                            </div>
+
+
+
+<div style="padding:10px;">
+                                    <a style="text-decoration: none" onclick="showFeeder('[{" time":"10:00="" -="" 12:30","feeder":"dassenberg="" farmers="" 2="" 11kv="" feeder"},{"time":"10:00="" 12:30","feeder":"kalbaskraal="" feeder"}]')"="" ;="">10:00 - 12:30</a> <br>
+                                     <br>
+                                </div>
+<div style="padding:10px;">
+                                    <a style="text-decoration: none" onclick="showFeeder('[{" time":"18:00="" -="" 20:30","feeder":"dassenberg="" farmers="" 2="" 11kv="" feeder"},{"time":"18:00="" 20:30","feeder":"kalbaskraal="" feeder"}]')"="" ;="">18:00 - 20:30</a> <br>
+                                     <br>
+                                </div>
+
+                        
