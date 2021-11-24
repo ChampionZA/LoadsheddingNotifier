@@ -23,6 +23,14 @@ It was designed to open the website that shows the status and the times of loads
 
 The reason I decided to make a form of audible notification was because there have been many times where I just haven't been by my phone to see the schedule or it is out of battery and I continue to use my devices as usual not knowing that Eskom has enounced that loadshedding it taking place soon. Unknowingly, I continue to work or play and find myself caught in the dark losing all the data that I didn't save and worrying if the more fragile computers like the Rasperry Pi will even be able to boot again due to corruption. I knew I needed a final project so I decided to have the Pi run all the time constantly checking and telling me when the powers about to go out.
 
+## Disclaimer!
+
+This program was writen with regards to my own person situation and your setup and/or experience may differ if you choose to use this project for yourself
+
+## Concerning Windows Users:
+
+As you can see from the contents of the repository there is a version of the program for windows. This has not been completed as it still contains bugs and is probably not going to work if you try and use it.
+
 `This should be seen as code text`
 
 > This should be quoted
