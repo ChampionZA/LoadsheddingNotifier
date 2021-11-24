@@ -25,11 +25,11 @@ The reason I decided to make a form of audible notification was because there ha
 
 ## Disclaimer!
 
-This program was writen with regards to my own person situation and your setup and/or experience may differ if you choose to use this project for yourself
+This program was writen with regards to my own person situation in mind and your setup and/or experience may differ if you choose to use this project for yourself
 
 ## Concerning Windows Users:
 
-As you can see from the contents of the repository there is a version of the program for windows. This has not been completed as it still contains bugs and is probably not going to work if you try and use it.
+As you can see from the contents of the repository there is a version of the program for **Windows** that I am working on that will shutdown your computer before the power goes out. This has not been completed as it still contains bugs and is probably not going to work if you try and use it. __So don't__
 
 `This should be seen as code text`
 
