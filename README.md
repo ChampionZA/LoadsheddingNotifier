@@ -1,7 +1,11 @@
 # Loadshedding Notifier
 ### Backstory:
 
-Hello World, my name is Gareth and I am 17 living in South Africa. In South Africa there is one major power company that powers the entire country that goes by the name of **Eskom**. Ever since 2014 they implemented "loadshedding" which according to wikipedia is defined as "load shedding is implemented whenever generating units are taken offline for maintenance, repairs or re-fueling (in the case of nuclear units)". This happens and still continues to happen to this day because Eskom is not capable of producing enough electricity for all of their customers and is forced to cut the power to certain areas according to a schecule when they anounce that loadshedding is active. The length of the power cuts are usually 2 hours long and the frequency per day depends on the level of loadshedding at that time.
+Hello World, my name is Gareth and I am 17 living in South Africa. In South Africa there is one major power company that powers the entire country that goes by the name of **Eskom**. Ever since 2014 they implemented "loadshedding" which according to wikipedia is defined as 
+
+> "load shedding is implemented whenever generating units are taken offline for maintenance, repairs or re-fueling (in the case of nuclear units)"
+
+This happens and still continues to happen to this day because Eskom is not capable of producing enough electricity for all of their customers and is forced to cut the power to certain areas according to a schecule when they anounce that loadshedding is active. The length of the power cuts are usually 2 hours long and the frequency per day depends on the level of loadshedding at that time.
 
 ### What is it?
 
@@ -10,6 +14,8 @@ The main version of this software was designed to run on a raspberry pi in an in
 ### How does it work?
 
 It was designed to open the website that shows the status and the times of loadshedding and automaticly read the status and fill in the locational data on the web form on the site to display the times that need to be extracted. It then checks this collected data and prints out the time until the powercut in the terminal, but if the status shows that there is no active loadshedding at the moment it will do nothing and wait a while before checking the website again.
+
+For filling in web forms `selenium` was used
 
 ### Reasoning:
 
