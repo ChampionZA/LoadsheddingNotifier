@@ -5,7 +5,11 @@ Hello World, my name is Gareth and I am 17 living in South Africa. In South Afri
 
 ### What is it?
 
-TODO
+The main version of this software was designed to run on a raspberry pi in an infinite loop checking if the power is going to go off and only stopping when it shuts itself down 5 minutes before. I made it to work in the background connected to a speaker with the only intention being to play me an audio cue giving me sufficient warning before hand so I don't lose any work or damage any of my components or data.
+
+### How does it work?
+
+It was designed to open the website that shows the status and the times of loadshedding and automaticly read the status and fill in the locational data on the web form on the site to display the times that need to be extracted. It then checks this collected data and prints out the time until the powercut in the terminal, but if the status shows that there is no active loadshedding at the moment it will do nothing and wait a while before checking the website again.
 
 ### Reasoning:
 
