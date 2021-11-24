@@ -13,11 +13,11 @@ The main version of this software was designed to run on a raspberry pi in an in
 
 ### How does it work?
 
-It was designed to open the website that shows the status and the times of loadshedding and automaticly read the status and fill in the locational data on the web form on the site to display the times that need to be extracted. It then checks this collected data and prints out the time until the powercut in the terminal, but if the status shows that there is no active loadshedding at the moment it will do nothing and wait a while before checking the website again.
+It was designed to open the website that shows the status and the times of loadshedding and automaticly read the status and fill in the locational data on the web form on the site to display the times that need to be extracted. It then checks this collected data and prints out the time until the powercut in the terminal and the log file, but if the status shows that there is no active loadshedding at the moment it will do nothing and wait a while before checking the website again.
 
 - For filling in web forms `selenium` was used
 - For selecting the location from the dropdown `pynput` was used
-- `lxml` and `requests` where both used in web scraping
+- `lxml`, `requests` and `selenium.webdriver` where used in web scraping
 
 ### Reasoning:
 
