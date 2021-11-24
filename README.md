@@ -31,10 +31,6 @@ This program was writen with regards to my own person situation in mind and your
 
 As you can see from the contents of the repository there is a version of the program for **Windows** that I am working on that will shutdown your computer before the power goes out. This has not been completed as it still contains bugs and is probably not going to work if you try and use it. __So don't__
 
-`This should be seen as code text`
+### More information:
 
-> This should be quoted
-
-You can find the link [here](https://loadshedding.eskom.co.za/loadshedding/description).
-
-TODO
+If you would like to read more about the power crisis in South Africa and more about what loadshedding is you can take a glance at Eskom's official site that can be found [here](https://loadshedding.eskom.co.za/loadshedding/description).
