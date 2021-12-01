@@ -8,7 +8,7 @@ from sys import *
 import re
 import os
 
-place = '<name of you location>'
+place = '<name of your location>'
 currentUser = 'pi'
 folderInHome = '<name of the folder in your home directory>'
 
